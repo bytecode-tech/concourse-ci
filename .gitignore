@@ -1,0 +1,9 @@
+.env
+*.swp
+.DS_Store
+database/*
+!database/README.md
+keys/web/*
+!keys/web/README.md
+keys/worker/*
+!keys/worker/README.md
